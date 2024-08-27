@@ -5,7 +5,7 @@
 @desc:    使用评测数据，计算词语相似度以及皮尔逊系数。本混合方法的皮尔逊系数0.854左右
 @DateTime: Created on 2017/12/28, at 18:28 by PyCharm
 '''
-
+汽车
 from Hybrid_Sim import HybridSim
 from Pearson import *
 
